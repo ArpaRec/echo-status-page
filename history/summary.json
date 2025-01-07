@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nz1",
     "status": "down",
-    "uptime": "34.31%",
-    "uptimeDay": "34.31%",
-    "uptimeWeek": "34.31%",
-    "uptimeMonth": "34.31%",
-    "uptimeYear": "34.31%",
+    "uptime": "28.41%",
+    "uptimeDay": "28.41%",
+    "uptimeWeek": "28.41%",
+    "uptimeMonth": "28.41%",
+    "uptimeYear": "28.41%",
     "time": 141,
     "timeDay": 141,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-01-07": 45
+      "2025-01-07": 60
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nz2",
     "status": "down",
-    "uptime": "35.06%",
-    "uptimeDay": "35.06%",
-    "uptimeWeek": "35.06%",
-    "uptimeMonth": "35.06%",
-    "uptimeYear": "35.06%",
+    "uptime": "29.05%",
+    "uptimeDay": "29.05%",
+    "uptimeWeek": "29.05%",
+    "uptimeMonth": "29.05%",
+    "uptimeYear": "29.05%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-01-07": 45
+      "2025-01-07": 59
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us1",
     "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 68
+      "2025-01-07": 83
     }
   }
 ]
