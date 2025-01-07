@@ -4,17 +4,17 @@ repo: echo-status-page # The name of this repository
 
 sites:
   - name: nz1
-    url: http://147.185.221.16:45652
-    expectedStatusCodes:
-      - 403
+    check: "tcp-ping"
+    url: 147.185.221.16
+    port: 45652
   - name: nz2
-    url: http://147.185.221.16:45653
-    expectedStatusCodes:
-      - 403
+    check: "tcp-ping"
+    url: 147.185.221.16
+    port: 45653
   - name: us1
-    url: http://169.254.65.98:6803
-    expectedStatusCodes:
-      - 403
+    check: "tcp-ping"
+    url: 169.254.65.98
+    port: 6803
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
