@@ -4,20 +4,17 @@ repo: echo-status-page # The name of this repository
 
 sites:
   - name: nz1
-    url: 147.185.221.16
-    port: 45652
-    check: "udp-ping"
-    ipv6: false
+    url: 147.185.221.16:45652
+    expectedStatusCodes:
+      - 403
   - name: nz2
-    url: 147.185.221.16
-    port: 45653
-    check: "udp-ping"
-    ipv6: false
+    url: 147.185.221.16:45653
+    expectedStatusCodes:
+      - 403
   - name: us1
-    url: 50.24.115.211
-    port: 6792
-    check: "udp-ping"
-    ipv6: false
+    url: 169.254.65.98:6803
+    expectedStatusCodes:
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
