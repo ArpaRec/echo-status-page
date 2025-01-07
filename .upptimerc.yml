@@ -4,15 +4,15 @@ repo: echo-status-page # The name of this repository
 
 sites:
   - name: nz1
-    url: 147.185.221.16:45652
+    url: http://147.185.221.16:45652
     expectedStatusCodes:
       - 403
   - name: nz2
-    url: 147.185.221.16:45653
+    url: http://147.185.221.16:45653
     expectedStatusCodes:
       - 403
   - name: us1
-    url: 169.254.65.98:6803
+    url: http://169.254.65.98:6803
     expectedStatusCodes:
       - 403
 
