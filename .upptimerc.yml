@@ -6,11 +6,11 @@ sites:
   - name: nz1
     check: "tcp-ping"
     url: 147.185.221.16
-    port: 45652
+    port: 25871
   - name: nz2
     check: "tcp-ping"
     url: 147.185.221.16
-    port: 45653
+    port: 45652
   - name: us1
     check: "tcp-ping"
     url: 169.254.65.98
