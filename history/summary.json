@@ -1,62 +1,62 @@
 [
   {
     "name": "nz1",
-    "url": "http://147.185.221.16:45652",
-    "icon": "https://icons.duckduckgo.com/ip3/147.185.221.16.ico",
+    "url": "147.185.221.16",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nz1",
     "status": "down",
-    "uptime": "82.48%",
-    "uptimeDay": "82.48%",
-    "uptimeWeek": "82.48%",
-    "uptimeMonth": "82.48%",
-    "uptimeYear": "82.48%",
+    "uptime": "34.31%",
+    "uptimeDay": "34.31%",
+    "uptimeWeek": "34.31%",
+    "uptimeMonth": "34.31%",
+    "uptimeYear": "34.31%",
     "time": 141,
     "timeDay": 141,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-01-07": 5
+      "2025-01-07": 45
     }
   },
   {
     "name": "nz2",
-    "url": "http://147.185.221.16:45653",
-    "icon": "https://icons.duckduckgo.com/ip3/147.185.221.16.ico",
+    "url": "147.185.221.16",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nz2",
     "status": "down",
-    "uptime": "84.34%",
-    "uptimeDay": "84.34%",
-    "uptimeWeek": "84.34%",
-    "uptimeMonth": "84.34%",
-    "uptimeYear": "84.34%",
+    "uptime": "35.06%",
+    "uptimeDay": "35.06%",
+    "uptimeWeek": "35.06%",
+    "uptimeMonth": "35.06%",
+    "uptimeYear": "35.06%",
     "time": 57,
     "timeDay": 57,
     "timeWeek": 57,
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-01-07": 4
+      "2025-01-07": 45
     }
   },
   {
     "name": "us1",
-    "url": "http://169.254.65.98:6803",
-    "icon": "https://icons.duckduckgo.com/ip3/169.254.65.98.ico",
+    "url": "169.254.65.98",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us1",
     "status": "down",
-    "uptime": "1.79%",
-    "uptimeDay": "1.79%",
-    "uptimeWeek": "1.79%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "1.79%",
+    "uptime": "0.74%",
+    "uptimeDay": "0.74%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "0.74%",
+    "uptimeYear": "0.74%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 28
+      "2025-01-07": 68
     }
   }
 ]
