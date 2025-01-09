@@ -4,19 +4,19 @@
     "url": "147.185.221.16",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nz1",
-    "status": "up",
-    "uptime": "0.83%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.83%",
-    "uptimeMonth": "0.83%",
-    "uptimeYear": "0.83%",
+    "status": "down",
+    "uptime": "1.13%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "1.13%",
+    "uptimeMonth": "1.13%",
+    "uptimeYear": "1.13%",
     "time": 75,
     "timeDay": 9,
     "timeWeek": 75,
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2025-01-09": 1409,
+      "2025-01-09": 1412,
       "2025-01-08": 1440,
       "2025-01-07": 261
     }
@@ -38,7 +38,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2025-01-09": 1412,
+      "2025-01-09": 1424,
       "2025-01-08": 1440,
       "2025-01-07": 260
     }
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-09": 1412,
+      "2025-01-09": 1424,
       "2025-01-08": 1440,
       "2025-01-07": 284
     }
